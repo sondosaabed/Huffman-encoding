@@ -1,6 +1,7 @@
 # Huffman-encoding
 This project was created as part of Algorithm Analysis course. Its is a Java project that implemnts Huffman encoding algorithm, the interface was created using JavaFX
 
+The input.txt file is an example of an input file.
 # App screenshots:
 User browse the file:
 ![1h](https://user-images.githubusercontent.com/65151701/212492346-6597dd91-250f-4a3a-b5c2-b95acaa09def.jpg)
