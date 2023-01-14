@@ -5,7 +5,6 @@ The input.txt file is an example of an input file.
 # App screenshots:
 User browse the file:
 ![1h](https://user-images.githubusercontent.com/65151701/212492346-6597dd91-250f-4a3a-b5c2-b95acaa09def.jpg)
-![2h](https://user-images.githubusercontent.com/65151701/212492351-ab470572-9473-456d-9715-f03647f45921.jpg)
 
 User choses whether to compress or decompress:
 ![3h](https://user-images.githubusercontent.com/65151701/212492352-1637559e-f373-4885-94b0-b0874ab545a3.jpg)
