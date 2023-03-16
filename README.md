@@ -12,5 +12,5 @@ User choses whether to compress or decompress:
 When the compressed file is ready to be downloaded:
 ![4h](https://user-images.githubusercontent.com/65151701/212492354-8cf0313b-e170-4c65-bbc5-54ccbac32737.jpg)
 
-Shows the generated huffman encodings for each letter:
+Shows the generated huffman encodings for each charachter:
 ![5h](https://user-images.githubusercontent.com/65151701/212492355-d8b8bde8-6392-4c60-a210-e71bdefd8c7a.jpg)
